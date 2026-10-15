@@ -1,0 +1,12 @@
+{
+  "reference": "b7482b6e-4ec6-40be-8ead-494b10d29774.png",
+  "tool": "built-in imagegen",
+  "direction_order": ["south", "south-west", "west", "north-west", "north", "north-east", "east", "south-east"],
+  "outputs": {
+    "directions-player.webp": "One Viking lumberjack player with orange tunic, iron helmet, backpack and axe; exactly eight true top-down 3/4 movement directions in a horizontal row, consistent proportions and transparent background.",
+    "directions-enemies-a.webp": "Four rows: root crawler, shadow wolf, mossy stone golem and purple skeleton archer; eight movement directions per row.",
+    "directions-enemies-b.webp": "Four rows: renegade lumberjack, war boar, fire mushroom and royal thorn monster; eight movement directions per row.",
+    "directions-enemies-c.webp": "Four rows: bark warden, purple skull mage, tree shaman and abyssal poison creature; eight movement directions per row.",
+    "directions-bosses.webp": "Three rows: Ancient Ent, Corrupted Lumberjack and Forest Spirit; eight movement directions per row."
+  }
+}
